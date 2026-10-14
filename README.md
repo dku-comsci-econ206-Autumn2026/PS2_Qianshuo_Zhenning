@@ -22,8 +22,6 @@ https://huggingface.co/spaces/dku-comsci-econ206-2026/PS2_Qianshuo_Zhenning
 A0 Poster:
 https://canva.link/vlx5ljli23z7qk8
 
-Final tested commit:
-`[FINAL SHA]`
 
 
 
